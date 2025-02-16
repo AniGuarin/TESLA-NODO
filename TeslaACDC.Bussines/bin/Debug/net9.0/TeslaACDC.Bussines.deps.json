@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TeslaACDC.Bussines/1.0.0": {
+        "runtime": {
+          "TeslaACDC.Bussines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeslaACDC.Bussines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

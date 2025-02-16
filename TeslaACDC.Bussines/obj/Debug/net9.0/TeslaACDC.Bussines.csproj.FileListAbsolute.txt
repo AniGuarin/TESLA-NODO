@@ -1,0 +1,11 @@
+C:\NODO\TeslaACDC.Bussines\bin\Debug\net9.0\TeslaACDC.Bussines.deps.json
+C:\NODO\TeslaACDC.Bussines\bin\Debug\net9.0\TeslaACDC.Bussines.dll
+C:\NODO\TeslaACDC.Bussines\bin\Debug\net9.0\TeslaACDC.Bussines.pdb
+C:\NODO\TeslaACDC.Bussines\obj\Debug\net9.0\TeslaACDC.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\NODO\TeslaACDC.Bussines\obj\Debug\net9.0\TeslaACDC.Bussines.AssemblyInfoInputs.cache
+C:\NODO\TeslaACDC.Bussines\obj\Debug\net9.0\TeslaACDC.Bussines.AssemblyInfo.cs
+C:\NODO\TeslaACDC.Bussines\obj\Debug\net9.0\TeslaACDC.Bussines.csproj.CoreCompileInputs.cache
+C:\NODO\TeslaACDC.Bussines\obj\Debug\net9.0\TeslaACDC.Bussines.dll
+C:\NODO\TeslaACDC.Bussines\obj\Debug\net9.0\refint\TeslaACDC.Bussines.dll
+C:\NODO\TeslaACDC.Bussines\obj\Debug\net9.0\TeslaACDC.Bussines.pdb
+C:\NODO\TeslaACDC.Bussines\obj\Debug\net9.0\ref\TeslaACDC.Bussines.dll

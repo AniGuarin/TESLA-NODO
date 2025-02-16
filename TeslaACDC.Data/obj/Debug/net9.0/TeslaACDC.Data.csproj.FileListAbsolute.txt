@@ -1,0 +1,12 @@
+C:\NODO\TeslaACDC.Data\bin\Debug\net9.0\TeslaACDC.Data.deps.json
+C:\NODO\TeslaACDC.Data\bin\Debug\net9.0\TeslaACDC.Data.dll
+C:\NODO\TeslaACDC.Data\bin\Debug\net9.0\TeslaACDC.Data.pdb
+C:\NODO\TeslaACDC.Data\obj\Debug\net9.0\TeslaACDC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\NODO\TeslaACDC.Data\obj\Debug\net9.0\TeslaACDC.Data.AssemblyInfoInputs.cache
+C:\NODO\TeslaACDC.Data\obj\Debug\net9.0\TeslaACDC.Data.AssemblyInfo.cs
+C:\NODO\TeslaACDC.Data\obj\Debug\net9.0\TeslaACDC.Data.csproj.CoreCompileInputs.cache
+C:\NODO\TeslaACDC.Data\obj\Debug\net9.0\TeslaACDC.Data.dll
+C:\NODO\TeslaACDC.Data\obj\Debug\net9.0\refint\TeslaACDC.Data.dll
+C:\NODO\TeslaACDC.Data\obj\Debug\net9.0\TeslaACDC.Data.pdb
+C:\NODO\TeslaACDC.Data\obj\Debug\net9.0\ref\TeslaACDC.Data.dll
+C:\Nodo\TeslaACDC.Data\obj\Debug\net9.0\TeslaACDC.Data.csproj.AssemblyReference.cache
